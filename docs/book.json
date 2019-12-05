@@ -1,0 +1,28 @@
+{
+	"gitbook": "3.2.2",
+	"title": "Bootcamp JS - Tunisie",
+	"plugins": [
+		"edit-link",
+		"prism",
+		"-highlight",
+		"github",
+		"anchorjs",
+		"image-captions",
+		"include-codeblock"
+	],
+	"root": "./",
+	"pluginsConfig": {
+		"edit-link": {
+			"base": "https://github.com/InseeFrLab/BootcampJS-JS/tree/master/docs",
+			"label": "Edit This Page"
+		},
+		"github": {
+			"url": "https://github.com/InseeFrLab/BootcampJS-JS/"
+		},
+		"theme-default": {
+			"styles": {
+				"website": "gitbook.css"
+			}
+		}
+	}
+}
